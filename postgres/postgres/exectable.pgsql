@@ -1,0 +1,3 @@
+CLEATE TABLE EXECTABLE (
+    CMD
+)
